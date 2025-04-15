@@ -1,0 +1,3 @@
+python AAER.py --epoch 30 --clamp 0 --alpha 1.25 --epsilon 8 --lamda1 1.0 --lamda2 1.0 --lamda3 1.0 --seed 1 --out-dir SVHN_N-AAER_8_s1_e30
+python AAER.py --epoch 30 --clamp 0 --alpha 1.25 --epsilon 8 --lamda1 1.0 --lamda2 1.0 --lamda3 1.0 --seed 1 --out-dir SVHN_N-AAER_8_s2_e30
+python AAER.py --epoch 30 --clamp 0 --alpha 1.25 --epsilon 8 --lamda1 1.0 --lamda2 1.0 --lamda3 1.0 --seed 1 --out-dir SVHN_N-AAER_8_s3_e30

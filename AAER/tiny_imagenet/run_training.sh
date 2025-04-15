@@ -1,0 +1,3 @@
+python AAER.py --epoch 50 --clamp 1 --alpha 1.25 --epsilon 8 --lamda1 1.0 --lamda2 0.75 --lamda3 0.15 --seed 1 --out-dir TI_RS-AAER_8_s1_e50
+python AAER.py --epoch 50 --clamp 1 --alpha 1.25 --epsilon 8 --lamda1 1.0 --lamda2 0.75 --lamda3 0.15 --seed 2 --out-dir TI_RS-AAER_8_s2_e50
+python AAER.py --epoch 50 --clamp 1 --alpha 1.25 --epsilon 8 --lamda1 1.0 --lamda2 0.75 --lamda3 0.15 --seed 3 --out-dir TI_RS-AAER_8_s3_e50
